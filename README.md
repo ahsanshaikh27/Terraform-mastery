@@ -1,7 +1,8 @@
 
 # 🚀 Terraform Learning Journey – 7 Days from Basics to Advanced
 
-![Terraform Logo](https://www.terraform.io/assets/images/og-image-8b3e4f7d.png)
+![Terraform Logo](https://raw.githubusercontent.com/mahmoudessam/introduction-to-terraform/main/images/terraform-logo.png)
+
 
 Welcome to my **Terraform learning journey**! This repo documents my step-by-step progress as I explore Infrastructure as Code (IaC) using Terraform with AWS. Below you'll find a structured breakdown of topics covered each day.
 
