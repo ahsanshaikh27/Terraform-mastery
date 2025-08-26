@@ -1,6 +1,3 @@
-
-
-
 # 🚀 Getting Started with Terraform
 
 To get started with **Terraform**, it’s important to understand some **key concepts and terminology**. These are the building blocks of Infrastructure as Code (IaC) with Terraform:
@@ -135,4 +132,3 @@ When you start with Terraform, you'll frequently use this workflow:
 
 ***
 
-👉 Do you want me to now **add a first practical example** in the README (like a `main.tf` to launch an AWS EC2 instance or S3 bucket), so readers can follow along in a real-world scenario?
